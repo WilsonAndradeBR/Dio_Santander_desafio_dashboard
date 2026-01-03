@@ -46,3 +46,6 @@ O objetivo do dashboard é apresentar os resultados de **vendas totais** e para 
 Conforme filtra-se o plano, os gráficos apresentam os resultados de vendas das **modadidade de assinatura**, **vendas por região do Brasil** e **vendas por gênero**.
 
 Os _Big Numbers_ são fixos e apresentam os resultados de vedas de todos os planos.
+
+![painel](https://github.com/user-attachments/assets/6ac03226-309a-462a-9239-97a71f0d807e)
+
